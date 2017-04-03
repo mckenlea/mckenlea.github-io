@@ -1,3 +1,0 @@
-# Mckenna's AOC Map
-
-
